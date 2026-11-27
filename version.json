@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.5/VideoCombo-1.5.apk",
-  "notes": "检查更新多源回退：GitHub 直连超时自动切换 jsdelivr CDN，弱网也能收到新版本"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.6/VideoCombo-1.6.apk",
+  "notes": "固定顶栏：主页下滑时标题渐显并由大缩小（30→18）"
 }
