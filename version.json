@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.8/VideoCombo-1.8.apk",
-  "notes": "首页入口去重：片段统计并入片段管理卡，双历史入口合一"
+  "versionCode": 10,
+  "versionName": "1.9",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.9/VideoCombo-1.9.apk",
+  "notes": "实机走查优化 + 充满提醒"
 }
