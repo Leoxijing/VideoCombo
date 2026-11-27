@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.7/VideoCombo-1.7.apk",
-  "notes": "充电岛设置面板：实时动态状态、未充电常驻通知开关、运行提示收进右上角齿轮"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.8/VideoCombo-1.8.apk",
+  "notes": "首页入口去重：片段统计并入片段管理卡，双历史入口合一"
 }
