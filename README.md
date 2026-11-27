@@ -18,7 +18,7 @@
 应用内检查更新读取本仓库 Release 上的 `version.json`：
 
 ```
-https://github.com/Leoxijing/VideoCombo/releases/latest/download/version.json
+https://github.com/Leoxijing/VideoCombo/releases/latest/download/version.json（GitHub 直连失败时自动回退 jsdelivr CDN：https://cdn.jsdelivr.net/gh/Leoxijing/VideoCombo@main/version.json）
 ```
 
 字段：`versionCode`（整数，递增）、`versionName`、`url`（APK 下载地址）、`notes`（更新说明）。

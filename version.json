@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.4/VideoCombo-1.4.apk",
-  "notes": "充电检测进入页面默认开启；右上角新增齿轮设置（实时动态设置、充电岛更新日志收口）；主页精简"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.5/VideoCombo-1.5.apk",
+  "notes": "检查更新多源回退：GitHub 直连超时自动切换 jsdelivr CDN，弱网也能收到新版本"
 }
