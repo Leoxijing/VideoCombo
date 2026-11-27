@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.1/VideoCombo-2.1.apk",
-  "notes": "修复电量曲线时间轴崩溃；版本名按进位规则更正为 2.1"
+  "versionCode": 13,
+  "versionName": "2.2",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.2/VideoCombo-2.2.apk",
+  "notes": "无任务时隐藏进度区；日志入口移入齿轮设置"
 }
