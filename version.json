@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.6/VideoCombo-1.6.apk",
-  "notes": "固定顶栏：主页下滑时标题渐显并由大缩小（30→18）"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.7/VideoCombo-1.7.apk",
+  "notes": "充电岛设置面板：实时动态状态、未充电常驻通知开关、运行提示收进右上角齿轮"
 }
