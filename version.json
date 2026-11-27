@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.9/VideoCombo-1.9.apk",
-  "notes": "实机走查优化 + 充满提醒"
+  "versionCode": 11,
+  "versionName": "1.10",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v1.10/VideoCombo-1.10.apk",
+  "notes": "ADB实机走查 · 菜单页与充电岛布局收口"
 }
