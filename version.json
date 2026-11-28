@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.2/VideoCombo-2.2.apk",
-  "notes": "无任务时隐藏进度区；日志入口移入齿轮设置"
+  "versionCode": 14,
+  "versionName": "2.3",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.3/VideoCombo-2.3.apk",
+  "notes": "界面重设计：层次、配色、动效与大屏适配全面升级"
 }
