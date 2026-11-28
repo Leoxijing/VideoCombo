@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.5/VideoCombo-2.5.apk",
-  "notes": "更新日志页改为标签前缀列表样式"
+  "versionCode": 17,
+  "versionName": "2.6",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.6/VideoCombo-2.6.apk",
+  "notes": "所有板块更新日志合并到同一入口"
 }
