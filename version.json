@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.3/VideoCombo-2.3.apk",
-  "notes": "界面重设计：层次、配色、动效与大屏适配全面升级"
+  "versionCode": 15,
+  "versionName": "2.4",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.4/VideoCombo-2.4.apk",
+  "notes": "齿轮图标重绘、设置入口升级、页头光晕替换播放水印"
 }
