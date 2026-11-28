@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.4/VideoCombo-2.4.apk",
-  "notes": "齿轮图标重绘、设置入口升级、页头光晕替换播放水印"
+  "versionCode": 16,
+  "versionName": "2.5",
+  "url": "https://github.com/Leoxijing/VideoCombo/releases/download/v2.5/VideoCombo-2.5.apk",
+  "notes": "更新日志页改为标签前缀列表样式"
 }
